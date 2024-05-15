@@ -38,7 +38,7 @@
 <h3 align="center">Other Github Stats</h3>
 
 <p align="center">
-<img height ="165" title="Profile summary" alt="Hardik's Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertusgeyser&theme=vue"/>
+<img height ="165" title="Profile summary" alt="Albertus Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertusgeyser&theme=vue"/>
 </p>
 
 <p align="center">
