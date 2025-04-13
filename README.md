@@ -26,11 +26,9 @@
   <a href="mailto:albertusgeyser@gmail.com">
     <img src="https://img.shields.io/badge/Email-albertusgeyser@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/albertus-geyser-650b8447" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://www.linteltech.co.za" target="_blank">
     <img src="https://img.shields.io/badge/Website-www.linteltech.co.za-brightgreen?style=flat-square&logo=firefox-browser" alt="Website" />
   </a>
