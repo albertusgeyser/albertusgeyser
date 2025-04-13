@@ -20,7 +20,7 @@
   <div style="display: inline-block; text-align: left;">
     <img src="https://img.shields.io/badge/Ask_me_about-Tech,_Biz,_Movies,_News-informational?style=flat-square" alt="Ask me about" style="width: 360px; height: 30px;" /><br>
     <img src="https://img.shields.io/badge/Languages-PHP|Python|.NET|JS-blue?style=flat-square" alt="Languages" style="width: 360px; height: 30px;" /><br>
-    <img src="https://img.shields.io/badge/Learning-ML|GoLang-yellow?style=flat-square" alt="Learning" style="width: 360px; height: 30px;" />
+    <img src="https://img.shields.io/badge/Learning-ML|GoLang-yellow?style=flat-square" alt="Learning" style="width: 360px; height: 30px;" /><br>
   </div>
 </div>
 
