@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/albertusgeyser?style=social" alt="followers" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Open_to-Collaboration-brightgreen" alt="collaboration" />
-</p><br><br>
+</p><br>
 
 <h3 align="center"> About Me: </h3>
 
