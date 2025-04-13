@@ -71,5 +71,5 @@
 </p>
 <br>
 <p align='center'>
-  <img src= "https://github-profile-trophy.vercel.app/?username=albertusgeyser" alt="trophy">
+  <img src= "https://github-profile-trophy.vercel.app/?username=albertusgeyser&theme=nord&row=1&column=6&margin-w=15" alt="Trophies">
 </p>
