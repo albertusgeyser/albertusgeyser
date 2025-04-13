@@ -16,11 +16,11 @@
   <img src="https://img.shields.io/badge/-Always_Learning-orange?style=for-the-badge" alt="Always Learning" />
 </p>
 
-<div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;">
   <div style="display: inline-block; text-align: left;">
-    <img src="https://img.shields.io/badge/Ask_me_about-Tech,_Biz,_Movies,_News-informational?style=flat-square" alt="Ask me about" style="width: 360px; height: 30px;" /><br>
-    <img src="https://img.shields.io/badge/Languages-PHP|Python|.NET|JS-blue?style=flat-square" alt="Languages" style="width: 360px; height: 30px;" /><br>
-    <img src="https://img.shields.io/badge/Learning-ML|GoLang-yellow?style=flat-square" alt="Learning" style="width: 360px; height: 30px;" /><br>
+    <img src="https://img.shields.io/badge/Ask_me_about-Tech,_Biz,_Movies,_News-informational?style=flat-square" alt="Ask me about" style="width: 360px; height: 30px;"><br><br>
+    <img src="https://img.shields.io/badge/Languages-PHP|Python|.NET|JS-blue?style=flat-square" alt="Languages" style="width: 360px; height: 30px;"><br><br>
+    <img src="https://img.shields.io/badge/Learning-ML|GoLang-yellow?style=flat-square" alt="Learning" style="width: 360px; height: 30px;">
   </div>
 </div>
 
