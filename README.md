@@ -19,8 +19,20 @@
 - 💬 Talk to me about tech, business, movies and current affairs.
 - 💻 I use **.php**, **.py**, **.net** and **.js** the most.
 - 🌱 I’m currently learning **Machine Learning, GoLang**.
-- 📫 Write to me at **albertusgeyser@gmail.com** or connect with me: <a href="www.linkedin.com/in/albertus-geyser-650b8447" target="blank"><img src="https://img.icons8.com/badges/48/linkedin.png" alt="linkedin" width="30" height="30"/><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="albertus-geyser" height="30" width="40" /></a>
-- 🌍 Visit my website: <a href="www.linteltech.co.za" target="blank">**www.linteltech.co.za**.</a>
+
+<p align="center">
+  <a href="mailto:albertusgeyser@gmail.com">
+    <img src="https://img.shields.io/badge/Email-albertusgeyser@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/albertus-geyser-650b8447" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linteltech.co.za" target="_blank">
+    <img src="https://img.shields.io/badge/Website-www.linteltech.co.za-brightgreen?style=flat-square&logo=firefox-browser" alt="Website" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github.com/albertusgeyser/albertusgeyser/blob/main/albertus_geyser_action_figure.png?raw=true" alt="Albertus Geyser Action Figure" height="400px" />
