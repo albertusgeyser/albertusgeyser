@@ -13,7 +13,7 @@
 - 🌍 Visit my website: <a href="www.linteltech.co.za" target="blank">**www.linteltech.co.za**.</a>
 
 <p align="center">
-  <img src="https://github.com/albertusgeyser/albertusgeyser/blob/main/albertus_geyser_action_figure-min.png?raw=true" alt="Albertus Geyser Action Figure" height="400px" />
+  <img src="https://github.com/albertusgeyser/albertusgeyser/blob/main/albertus_geyser_action_figure.png?raw=true" alt="Albertus Geyser Action Figure" height="400px" />
 </p>
 <p align="center"><i>Coding isn’t just a skill. It’s a superpower. 💻⚡</i></p>
 
