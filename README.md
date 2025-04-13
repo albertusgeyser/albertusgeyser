@@ -12,6 +12,11 @@
 - 📫 Write to me at **albertusgeyser@gmail.com** or connect with me: <a href="www.linkedin.com/in/albertus-geyser-650b8447" target="blank"><img src="https://img.icons8.com/badges/48/linkedin.png" alt="linkedin" width="30" height="30"/><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="albertus-geyser" height="30" width="40" /></a>
 - 🌍 Visit my website: <a href="www.linteltech.co.za" target="blank">**www.linteltech.co.za**.</a>
 
+<p align="center">
+  <img src="https://github.com/albertusgeyser/albertusgeyser/blob/main/albertus_geyser_action_figure-min.png?raw=true" alt="Albertus Geyser Action Figure" height="400px" />
+</p>
+<p align="center"><i>Meet Action Figure Albertus — Software Developer Extraordinaire ⚡</i></p>
+
 <h3 align="center"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>GitHub overview </h3>
 
 <p align="center">
