@@ -1,8 +1,8 @@
 <h1 align="center">Hello there, I'm Albertus <img src="https://github.com/albertusgeyser/albertusgeyser/blob/main/Hi.gif" width="29px" height="29px"> </h1>
 <p align="center"><img src ="https://github.com/albertusgeyser/albertusgeyser/blob/main/programmer.gif" height="480px"></p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=albertusgeyser&style=flat" alt="profile views" style="margin-right: 5px;" />
-  <img src="https://img.shields.io/github/followers/albertusgeyser?style=social" alt="followers" style="margin-right: 5px;" />
+  <img src="https://komarev.com/ghpvc/?username=albertusgeyser&style=flat" alt="profile views" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/github/followers/albertusgeyser?style=social" alt="followers" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Open_to-Collaboration-brightgreen" alt="collaboration" />
 </p>
 
