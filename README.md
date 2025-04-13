@@ -32,7 +32,7 @@
   <a href="https://www.linteltech.co.za" target="_blank">
     <img src="https://img.shields.io/badge/Website-www.linteltech.co.za-brightgreen?style=flat-square&logo=firefox-browser" alt="Website" />
   </a>
-</p>
+</p><br><br>
 
 <p align="center">
   <img src="https://github.com/albertusgeyser/albertusgeyser/blob/main/albertus_geyser_action_figure.png?raw=true" alt="Albertus Geyser Action Figure" height="400px" />
