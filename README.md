@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://github.com/albertusgeyser/albertusgeyser/blob/main/albertus_geyser_action_figure-min.png?raw=true" alt="Albertus Geyser Action Figure" height="400px" />
 </p>
-<p align="center"><i>Meet Action Figure Albertus — Software Developer Extraordinaire ⚡</i></p>
+<p align="center"><i>Coding isn’t just a skill. It’s a superpower. 💻⚡</i></p>
 
 <h3 align="center"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>GitHub overview </h3>
 
