@@ -10,7 +10,12 @@
 
 <h3 align="center"> About Me: </h3>
 
-- 🏦 I'm tech enthusiast who enjoys development and exploring open source projects.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Tech_Enthusiast-blueviolet?style=for-the-badge" alt="Tech Enthusiast" />
+  <img src="https://img.shields.io/badge/-Open_Source_Lover-green?style=for-the-badge" alt="Open Source Lover" />
+  <img src="https://img.shields.io/badge/-Always_Learning-orange?style=for-the-badge" alt="Always Learning" />
+</p>
+
 - 💬 Talk to me about tech, business, movies and current affairs.
 - 💻 I use **.php**, **.py**, **.net** and **.js** the most.
 - 🌱 I’m currently learning **Machine Learning, GoLang**.
