@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/albertusgeyser?style=social" alt="followers" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Open_to-Collaboration-brightgreen" alt="collaboration" />
-</p>
+</p><br><br>
 
 <h3 align="center"> About Me: </h3>
 
@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github.com/albertusgeyser/albertusgeyser/blob/main/albertus_geyser_action_figure.png?raw=true" alt="Albertus Geyser Action Figure" height="400px" />
 </p>
-<p align="center"><i>Coding isn’t just a skill. It’s a superpower. 💻⚡</i></p>
+<p align="center"><i>Coding isn’t just a skill. It’s a superpower. 💻⚡</i></p><br><br>
 
 <h3 align="center"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>GitHub overview </h3>
 
