@@ -1,6 +1,9 @@
 <h1 align="center">Hello there, I'm Albertus <img src="https://github.com/albertusgeyser/albertusgeyser/blob/main/Hi.gif" width="29px" height="29px"> </h1>
 <p align="center"><img src ="https://github.com/albertusgeyser/albertusgeyser/blob/main/programmer.gif" height="480px"></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=albertusgeyser&style=flat" alt="thecoderenroute" /> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=albertusgeyser&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/albertusgeyser?style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-brightgreen" alt="collaboration" />
 </p>
 
 <h3 align="center"> About Me: </h3>
